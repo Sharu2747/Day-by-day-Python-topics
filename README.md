@@ -44,6 +44,6 @@ My learning notes, roadmap, and handwritten notes are uploaded as PDF files in t
 - OOP concepts completed 
 
 
-## Learning Goal
+
 
 To strengthen my Python programming skills through continuous practice and projects.
